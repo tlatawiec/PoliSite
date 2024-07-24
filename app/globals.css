@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-light overflow-x-hidden;
+}
+
+h1, h2, h3 {
+  @apply font-bold text-dark text-lg;
+}
+
+main {
+  @apply my-12 mx-auto px-0;
+  ;
+}
+
+main > h2, h3 {
+  @apply mb-4 pb-2 text-base;
+}
+
+p > a {
+  @apply text-dark underline;
+}
+
+nav {
+  @apply
+    py-4 border-b-2
+    flex items-center mx-auto
+    text-xs max-w-6xl min-w-min
+    my-0 sm:py-8 sm:text-base
+    gap-5 
+}
+
+nav a, nav span {
+  @apply text-dark;
+}
+
+nav a:hover {
+  @apply text-blue cursor-pointer font-bold;
+}
+
+.bento-container {
+  @apply 
+    w-5/6 h-full
+    flex
+}
+
+.bento-half {
+  @apply  
+    w-1/2 h-full mx-8
+}
+
+.bento-big {
+  @apply  
+    w-full h-2/3
+
+}
+
+.bento-small {
+  @apply
+    mt-8
+    text-2xl text-dark
+    leading-relaxed tracking-wide
+    w-full h-1/3 px-12
+}
+
+.main-button {
+  @apply
+    bg-blue text-white border-2
+    mx-6 py-4 px-8
+    rounded-md
+}
+
+.main-button:hover {
+  @apply  
+    text-blue bg-white border-blue
+}
