@@ -2,10 +2,10 @@ import Link from 'next/link'
 
 export default function Navbar() {
   return (
-    <nav className="border-dark flex justify-between">
+    <nav>
       <Link href="/"><span className="text-red text-2xl">Poli</span><span className="text-blue font-extrabold">API</span></Link>
-      <div>
-        <a className="mx-6">Documentation</a>
+      <div className='flex justify-end'>
+        <Link className="mx-6" href="/documentation">Documentation</Link>
         <a>Get an API Key</a>
       </div>
     </nav>

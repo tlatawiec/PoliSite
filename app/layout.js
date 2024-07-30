@@ -1,13 +1,13 @@
-import { Roboto_Slab } from "next/font/google";
+import { Roboto_Mono } from "next/font/google";
 import Navbar from "./Navbar";
 import "./globals.css";
 
-const rslab = Roboto_Slab({ subsets: ["latin"] });
+const rmono = Roboto_Mono({ subsets: ["latin"] });
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={rslab.className}>
+      <body className={rmono.className}>
         <Navbar />
         {children}
       </body>
