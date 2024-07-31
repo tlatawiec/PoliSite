@@ -168,3 +168,41 @@ li {
     bg-pb rounded-lg h-96 py-4 my-8 text-sm
     overflow-y-auto
 }
+
+.token-keyword {
+  @apply  
+    text-red
+}
+
+.token-variable {
+  @apply
+    text-blue
+}
+.token-function {
+  @apply
+  text-green-400
+}
+.token-string {
+  @apply 
+    text-amber-300
+}
+
+.token-operator {
+  @apply  
+    text-red
+}
+
+.token-punctuation {
+  @apply
+    text-gray-300
+}
+
+.token-comment {
+  @apply
+    text-gray-600
+}
+
+.token-template-variable {
+  @apply
+    text-purple-500
+}

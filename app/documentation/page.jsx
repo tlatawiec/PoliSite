@@ -13,7 +13,7 @@ export default function Documentation() {
   };
 
   return (
-    <main className=''>
+    <main>
       <div className="documentation-container">
         <List onItemClick={ handleItemClick }/> 
         <div className='documentation-body'>
@@ -685,7 +685,7 @@ export default function Documentation() {
             <h3 className='section-header'>Contact Information</h3>
             <p>Feel free to ask questions and leave suggestions at contactus@poliapi.com</p>
           </section>
-          <section className='section-body' ref={sectionRefs[14]}>
+          <section className='section-body pb-4' ref={sectionRefs[14]}>
             <h3 className='section-header'>Versioning</h3>
             <p>PoliAPI v1</p>
           </section>
