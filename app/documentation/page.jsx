@@ -67,77 +67,77 @@ export default function Documentation() {
               <div>
                 <span className='text-white text-xs ml-8'>json</span> <br />
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Marjorie Taylor Greene"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-28"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 3</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "ASML Holding NV"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-24"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-28"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">3</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"ASML Holding NV"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-24"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Marjorie Taylor Greene"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 164.66</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-05-21"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 0</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Advanced Micro Devices Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-05-21"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">164.66</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-05-21"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">0</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Advanced Micro Devices Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-05-21"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Marjorie Taylor Greene"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 192.35</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-05-21"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 0</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Apple Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-05-21"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">192.35</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-05-21"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">0</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Apple Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-05-21"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Marjorie Taylor Greene"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 219.65</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-25"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 1</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Applied Materials Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-25"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">219.65</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-25"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">1</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Applied Materials Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-25"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Marjorie Taylor Greene"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-28"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; 3</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "ASML Holding NV"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-24"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-28"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">3</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"ASML Holding NV"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-24"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -163,81 +163,81 @@ export default function Documentation() {
               <div>
                 <span className='text-white text-xs ml-8'>json</span> <br />
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael McCaul",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"TX",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"22.41",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-23",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"31",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Vishay Intertechnology Inc",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-21",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael McCaul",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"TX",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"22.41",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-23",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"31",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Vishay Intertechnology Inc",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-21",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael McCaul",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"TX",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"22.50",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-23",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"32",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Vishay Intertechnology Inc",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-20",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael McCaul",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"TX",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"22.50",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-23",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"32",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Vishay Intertechnology Inc",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-20",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael McCaul",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"TX",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"22.29",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-23",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"38",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Vishay Intertechnology Inc",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-14",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael McCaul",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"TX",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"22.29",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-23",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"38",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Vishay Intertechnology Inc",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-14",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael McCaul",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"TX",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"38.15",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-23",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"38",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Sensata Technologies Holding PLC",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-14",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael McCaul",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"TX",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"38.15",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-23",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"38",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Sensata Technologies Holding PLC",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-14",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Victoria Spartz",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"IN",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"151.80",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-26",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"27",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"50K–100K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Simon Property Group Inc",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-28",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Victoria Spartz",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"IN",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"151.80",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-26",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"27",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"50K–100K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Simon Property Group Inc",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-28",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -263,65 +263,65 @@ export default function Documentation() {
               <span className='text-white text-xs ml-8'>json</span> <br />
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Marjorie Taylor Greene",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-25",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"0",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"250K–500K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"US TREASURY BILLS",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-24",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Marjorie Taylor Greene",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-25",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"0",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"250K–500K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"US TREASURY BILLS",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-24",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Buddy Carter",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"61.05",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-25",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"100K–250K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Ameris Bancorp",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-23",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Buddy Carter",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"61.05",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-25",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"1",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"100K–250K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Ameris Bancorp",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-23",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Katie Britt",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AL",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-29",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"5",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"ONEWATER MARINE INC",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-24",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Katie Britt",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"AL",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-29",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"5",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"ONEWATER MARINE INC",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-24",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Katie Britt",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AL",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"26.83",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-29",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"5",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"ONEWATER MARINE INC",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-24",</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Katie Britt",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"AL",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"26.83",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-29",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"5",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"ONEWATER MARINE INC",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-24",</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -347,65 +347,65 @@ export default function Documentation() {
               <span className='text-white text-xs ml-8'>json</span> <br />
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Hal Rogers"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"KY"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"20"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"15K–50K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"FRANKLIN COUNTY SCHOOL DISTRICT"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-20"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Hal Rogers"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"KY"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"20"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"15K–50K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"FRANKLIN COUNTY SCHOOL DISTRICT"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-20"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Rick Allen"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"15"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"250K–500K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"US TREASURY BILLS"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-25"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Rick Allen"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"15"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"250K–500K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"US TREASURY BILLS"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-25"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael Collins"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"0.78"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"19"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AERODROME FINANCE"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-22"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael Collins"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"0.78"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"19"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"AERODROME FINANCE"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-22"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"John Boozman"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AR"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"31.77"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"37"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Goldman Sachs ActiveBeta Emerging Markets Equity ETF"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-04"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"John Boozman"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"AR"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"31.77"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"37"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Goldman Sachs ActiveBeta Emerging Markets Equity ETF"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-04"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -444,65 +444,65 @@ export default function Documentation() {
               <span className='text-white text-xs ml-8'>json</span> <br />
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Hal Rogers"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"KY"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"20"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"15K–50K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"FRANKLIN COUNTY SCHOOL DISTRICT"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-20"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Hal Rogers"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"KY"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"20"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"15K–50K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"FRANKLIN COUNTY SCHOOL DISTRICT"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-20"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Rick Allen"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"N/A"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"15"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"250K–500K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"US TREASURY BILLS"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-25"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Rick Allen"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"N/A"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"15"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"250K–500K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"US TREASURY BILLS"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-25"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Michael Collins"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"GA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"0.78"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"19"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AERODROME FINANCE"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-22"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"Michael Collins"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"GA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"0.78"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"19"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"AERODROME FINANCE"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-22"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"John Boozman"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"AR"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"31.77"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"37"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"Goldman Sachs ActiveBeta Emerging Markets Equity ETF"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"2024-06-04"</span><br />
-                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp;"buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Name:"</span><span class="text-white"> : </span><span class="text-blue">"John Boozman"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Party:"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician Position:"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Politician State:"</span><span class="text-white"> : </span><span class="text-blue">"AR"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Price:"</span><span class="text-white"> : </span><span class="text-blue">"31.77"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Publish Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Reporting Gap:"</span><span class="text-white"> : </span><span class="text-blue">"37"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Size:"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Trade Issuer:"</span><span class="text-white"> : </span><span class="text-blue">"Goldman Sachs ActiveBeta Emerging Markets Equity ETF"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Traded Date:"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-04"</span><br />
+                &nbsp; &nbsp; <span class="text-red">"Type:"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class="text-white">&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -528,65 +528,65 @@ export default function Documentation() {
               <span className='text-white text-xs ml-8'>json</span> <br />
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Ro Khanna"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Democrat"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "CA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "186.19"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-02-07"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "26"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Apple Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-10"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Ro Khanna"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Democrat"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"CA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"186.19"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-02-07"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"26"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Apple Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-10"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>               
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Ro Khanna"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Democrat"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "CA"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "186.19"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-02-07"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "26"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "15K–50K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Apple Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-10"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Ro Khanna"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Democrat"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"CA"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"186.19"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-02-07"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"26"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"15K–50K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Apple Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-10"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>       
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Markwayne Mullin"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "OK"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "185.64"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-27"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "24"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "50K–100K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Apple Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-02"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Markwayne Mullin"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"OK"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"185.64"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-27"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"24"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"50K–100K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Apple Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-02"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>                
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Blake Moore"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "House"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "UT"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "191.56"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-24"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "5"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "15K–50K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Apple Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-01-19"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Blake Moore"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"House"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"UT"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"191.56"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-24"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"5"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"15K–50K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Apple Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-01-19"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
@@ -613,65 +613,65 @@ export default function Documentation() {
               <span className='text-white text-xs ml-8'>json</span> <br />
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Markwayne Mullin"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "OK"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "532.96"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-12"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "30"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "15K–50K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Parker-Hannifin Corp"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-12"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "buy"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Markwayne Mullin"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"OK"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"532.96"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-12"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"30"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"15K–50K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Parker-Hannifin Corp"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-12"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"buy"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Markwayne Mullin"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "OK"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "295.68"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-12"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "29"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "500K–1M"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "iShares Russell 1000 ETF"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-13"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Markwayne Mullin"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"OK"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"295.68"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-12"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"29"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"500K–1M"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"iShares Russell 1000 ETF"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-13"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Shelley Moore Capito"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "WV"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "263.07"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "14"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Air Products and Chemicals Inc"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-27"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"Shelley Moore Capito"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"WV"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"263.07"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"14"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"Air Products and Chemicals Inc"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-27"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
 
               <div>
                 &nbsp; &nbsp; <span class="text-white">&#123;</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Name":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "John Boozman"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Party":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Republican"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician Position":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "Senate"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Politician State":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "AR"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Price":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "534.24"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Publish Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-07-11"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "37"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Size":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "1K–15K"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "SPDR MidCap 400 ETF Trust"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Traded Date":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "2024-06-04"</span><br />
-                &nbsp; &nbsp; <span class="text-red">  "Type":</span><span class="text-white">:</span><span class="text-blue">&nbsp; &nbsp; "sell"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Name"</span><span class="text-white"> : </span><span class="text-blue">"John Boozman"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Party"</span><span class="text-white"> : </span><span class="text-blue">"Republican"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician Position"</span><span class="text-white"> : </span><span class="text-blue">"Senate"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Politician State"</span><span class="text-white"> : </span><span class="text-blue">"AR"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Price"</span><span class="text-white"> : </span><span class="text-blue">"534.24"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Publish Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-07-11"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Reporting Gap"</span><span class="text-white"> : </span><span class="text-blue">"37"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Size"</span><span class="text-white"> : </span><span class="text-blue">"1K–15K"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Trade Issuer"</span><span class="text-white"> : </span><span class="text-blue">"SPDR MidCap 400 ETF Trust"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Traded Date"</span><span class="text-white"> : </span><span class="text-blue">"2024-06-04"</span><br />
+                &nbsp; &nbsp; <span class="text-red">  "Type"</span><span class="text-white"> : </span><span class="text-blue">"sell"</span><br />
                 &nbsp; &nbsp; <span class='text-white'>&#125;</span>
               </div>,
               <span className='text-white text-xs ml-8'>continues...</span> <br />
